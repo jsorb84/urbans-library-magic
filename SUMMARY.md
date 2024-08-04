@@ -1,6 +1,6 @@
 # Table of contents
 
-## ⚡ Metaphysics
+## ⚡ Urban's Notes
 
 * [🧠 The Great Manifestation](README.md)
 * [🔳 Geometrical Representations of Reality](metaphysics/geometrical-representations-of-reality.md)
