@@ -10,7 +10,7 @@ description: Mike Rawson's Esoteric Tarot Breakdown, Completely Formatted
 
 <summary>Ace of Wands</summary>
 
-## The Ace of Wands
+### The Ace of Wands
 
 **Wands and Fire:**
 
@@ -79,7 +79,7 @@ The Ace of Wands represents the core essence of Fire: opportunity, creativity, b
 * Vigor
 * Natural energy
 
-![](<../.gitbook/assets/image (15).png>)
+<img src="../.gitbook/assets/image (15).png" alt="" data-size="original">
 
 </details>
 
@@ -87,7 +87,7 @@ The Ace of Wands represents the core essence of Fire: opportunity, creativity, b
 
 <summary>Two of Wands</summary>
 
-## Two of Wands
+### Two of Wands
 
 **Twos: Duality and Decisions**
 
@@ -148,7 +148,7 @@ A well-dressed man stands on a castle rampart, holding a globe. He's positioned 
 * Generosity
 * Ambition
 
-![](<../.gitbook/assets/image (14).png>)
+<img src="../.gitbook/assets/image (14).png" alt="" data-size="original">
 
 </details>
 
@@ -156,7 +156,7 @@ A well-dressed man stands on a castle rampart, holding a globe. He's positioned 
 
 <summary>Three of Wands</summary>
 
-## The Three of Wands
+### The Three of Wands
 
 **Threes: Full Expression**
 
@@ -218,7 +218,7 @@ A well-dressed man stands confidently between three Wands, gazing out to sea at 
 * Success after struggle
 * Nobility
 
-![](<../.gitbook/assets/image (13).png>)
+<img src="../.gitbook/assets/image (13).png" alt="" data-size="original">
 
 </details>
 
@@ -226,7 +226,7 @@ A well-dressed man stands confidently between three Wands, gazing out to sea at 
 
 <summary>Four of Wands</summary>
 
-## The Four of Wands
+### The Four of Wands
 
 **Fours: Structure and Completion**
 
@@ -286,7 +286,7 @@ Four Wands are arranged to form an open structure before a castle. People celebr
 * Cleverness
 * Perfection
 
-![](<../.gitbook/assets/image (12).png>)
+<img src="../.gitbook/assets/image (12).png" alt="" data-size="original">
 
 </details>
 
@@ -294,7 +294,7 @@ Four Wands are arranged to form an open structure before a castle. People celebr
 
 <summary>Five of Wands</summary>
 
-## The Five of Wands
+### The Five of Wands
 
 **Fives: Conflict and Loss**
 
@@ -357,7 +357,7 @@ Five young men fight playfully with Wands.
 * Lust
 * Desire
 
-![](<../.gitbook/assets/image (11).png>)
+<img src="../.gitbook/assets/image (11).png" alt="" data-size="original">
 
 </details>
 
@@ -365,7 +365,7 @@ Five young men fight playfully with Wands.
 
 <summary>Six of Wands</summary>
 
-## The Six of Wands
+### The Six of Wands
 
 **Sixes: Recovery and Sharing**
 
@@ -425,7 +425,7 @@ A triumphant man rides on horseback during a victory parade or celebration.
 * Success
 * Sociability
 
-![](<../.gitbook/assets/image (10).png>)
+<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
 
 </details>
 
@@ -433,7 +433,7 @@ A triumphant man rides on horseback during a victory parade or celebration.
 
 <summary>Seven of Wands</summary>
 
-## The Seven of Wands
+### The Seven of Wands
 
 **Sevens: Victories and Challenges**
 
@@ -487,7 +487,7 @@ A lone figure stands on higher ground, defending himself with a staff against si
 * Courage
 * Possible victory through effort
 
-![](<../.gitbook/assets/image (9).png>)
+<img src="../.gitbook/assets/image (9).png" alt="" data-size="original">
 
 </details>
 
@@ -495,7 +495,7 @@ A lone figure stands on higher ground, defending himself with a staff against si
 
 <summary>Eight of Wands</summary>
 
-## The Eight of Wands
+### The Eight of Wands
 
 **Eights: Movement and Change**
 
@@ -552,7 +552,7 @@ Eight staffs fly through the sky.
 * Haste
 * Taking action (may be rash action)
 
-![](<../.gitbook/assets/image (8).png>)
+<img src="../.gitbook/assets/image (8).png" alt="" data-size="original">
 
 </details>
 
@@ -560,7 +560,7 @@ Eight staffs fly through the sky.
 
 <summary>Nine of Wands</summary>
 
-## The Nine of Wands
+### The Nine of Wands
 
 **Nines: Completion and Integration**
 
@@ -616,7 +616,7 @@ A man with a bandaged head leans on his staff, looking at eight other staffs.
 * Perseverance
 * Overcoming adversity
 
-![](<../.gitbook/assets/image (7).png>)
+<img src="../.gitbook/assets/image (7).png" alt="" data-size="original">
 
 </details>
 
@@ -624,7 +624,7 @@ A man with a bandaged head leans on his staff, looking at eight other staffs.
 
 <summary>Ten of Wands</summary>
 
-## The Ten of Wands
+### The Ten of Wands
 
 **Tens: Completion and Culmination**
 
@@ -681,7 +681,7 @@ A man carries ten staffs with difficulty.
 * Stagnation
 * Unhealthy attachment to achievement
 
-![](<../.gitbook/assets/image (6).png>)
+<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
 
 </details>
 
@@ -689,7 +689,7 @@ A man carries ten staffs with difficulty.
 
 <summary>Princess (Page) of Wands</summary>
 
-## The Princess of Wands
+### The Princess of Wands
 
 **Fire Manifested**
 
@@ -727,7 +727,7 @@ In Tarot, Wands represent fire, the element of raw energy and passion. The Princ
 * A message or information
 * A young woman with fiery energy (fire-colored hair, blue eyes)
 
-![](<../.gitbook/assets/image (5) (1).png>)
+<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -735,7 +735,7 @@ In Tarot, Wands represent fire, the element of raw energy and passion. The Princ
 
 <summary>Prince (Knight) of Wands</summary>
 
-## The Prince of Wands
+### The Prince of Wands
 
 **Air Fueled by Fire**
 
@@ -777,7 +777,7 @@ The Prince of Wands is a combination of these two elements. He has the fire to t
 * A young man with light hair and blue or gray eyes (fire+air coloring)
 * Can also represent boasting or impulsiveness
 
-![](<../.gitbook/assets/image (4) (1).png>)
+<img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -785,7 +785,7 @@ The Prince of Wands is a combination of these two elements. He has the fire to t
 
 <summary>Queen of Wands</summary>
 
-## Queen of Wands
+### Queen of Wands
 
 **Wands and Fire:**
 
@@ -848,7 +848,7 @@ The Queen of Wands represents adaptability, a steady force, and powerful feminin
 
 * Woman with red or gold hair and blue or brown eyes
 
-![](<../.gitbook/assets/image (133).png>)
+<img src="../.gitbook/assets/image (133).png" alt="" data-size="original">
 
 </details>
 
@@ -856,7 +856,7 @@ The Queen of Wands represents adaptability, a steady force, and powerful feminin
 
 <summary>King of Wands</summary>
 
-## King of Wands
+### King of Wands
 
 **Kings** represent authoritative figures and embody the element of Fire, the energy of existence. Fire is not passive and can be destructive. It's associated with:
 
@@ -909,7 +909,7 @@ The King of Wands represents mature power used wisely. He is a strong, honest, p
 
 * Man with blond or red hair and blue or hazel eyes
 
-![](<../.gitbook/assets/image (131).png>)![](<../.gitbook/assets/image (132).png>)
+<img src="../.gitbook/assets/image (131).png" alt="" data-size="original"><img src="../.gitbook/assets/image (132).png" alt="" data-size="original">
 
 </details>
 

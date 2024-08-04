@@ -43,8 +43,8 @@ coverY: 0
 
 "Elohim made:"
 
-1. <mark style="color:yellow;">**💨**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">🜁</mark> <mark style="color:yellow;">**Aleph (**</mark><mark style="color:yellow;">א</mark><mark style="color:yellow;">**)**</mark> – “the Firmament and divided the waters . . .” 1:7
-2. **💦** <mark style="color:blue;">🜄</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Mem (**</mark><mark style="color:blue;">מ</mark><mark style="color:blue;">**)**</mark> – “the two great lights . . . and the stars.” 1:16
+1. <mark style="color:yellow;">**💨**</mark> <mark style="color:yellow;">🜁</mark> <mark style="color:yellow;">**Aleph (**</mark><mark style="color:yellow;">א</mark><mark style="color:yellow;">**)**</mark> – “the Firmament and divided the waters . . .” 1:7
+2. **💦** <mark style="color:blue;">🜄</mark> <mark style="color:blue;">**Mem (**</mark><mark style="color:blue;">מ</mark><mark style="color:blue;">**)**</mark> – “the two great lights . . . and the stars.” 1:16
 3. **🔥**<mark style="color:red;">🜂</mark> <mark style="color:red;">**Shin (**</mark><mark style="color:red;">שׁ</mark><mark style="color:red;">**)**</mark> – “the beast of the earth after its kind . . .” 1:25
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -54,7 +54,7 @@ coverY: 0
 "Elohim saw:"
 
 1. <mark style="color:yellow;">**Beth (**</mark><mark style="color:yellow;">ב, Mercury ☿</mark><mark style="color:yellow;">**)**</mark> – “the light, that it was good.” 1:4
-2. <mark style="color:blue;">**Gimel (**</mark><mark style="color:blue;">ג,  Luna ☽)</mark> – “that it was good.” (the separation of dry land and waters) 1:10
+2. <mark style="color:blue;">**Gimel (**</mark><mark style="color:blue;">ג, Luna ☽)</mark> – “that it was good.” (the separation of dry land and waters) 1:10
 3. <mark style="color:green;">**Daleth (**</mark><mark style="color:green;">ד, Venus ♀</mark><mark style="color:green;">**)**</mark> – “that it was good” (the earth bringing forth grass, etc.) 1:12
 4. <mark style="color:purple;">**Kaph (**</mark><mark style="color:purple;">כ, Jupiter ♃)</mark> – that it was good” (the two lights in the firmament) 1:18
 5. <mark style="color:red;">**Peh (**</mark><mark style="color:red;">פ, Mars ♂</mark><mark style="color:red;">**)**</mark>– “that it was good” (swarming of waters with creatures; of air with fowl) 1:21
@@ -71,13 +71,13 @@ coverY: 0
 2. **Vav** (ו, Taurus ♉︎) – “divided the light from the darkness.” 1:4
 3. **Zayin** (ז, Gemini ♊︎) – “called the light Day, and darkness Night.” 1:5
 4. **Cheth** (ח, Cancer ♋︎) – “called the firmament Heaven.” 1:8
-5. **Teth** (ט, Leo ♌︎)   – “called the dry land, Earth . . . and the waters, Seas.” 1:10
+5. **Teth** (ט, Leo ♌︎) – “called the dry land, Earth . . . and the waters, Seas.” 1:10
 6. **Yod** (י, Virgo ♍︎) – “set them \[the two lights] in the firmament of the heaven” 1:17
 7. **Lamed** (ל, Libra ♎︎) – “created the sea-monsters, creatures that creep, and fowl.” 1:21
 8. **Nun** (נ, Scorpio ♏︎) – “blessed them \[sea-monsters, creepers, and fowl] . . .” 1:22
 9. **Samekh** (ס, Sagittarius ♐︎) – “created man in His own image.” 1:27
 10. **Ayin** (ע, Capricorn ♑︎) – “created He him; male and female created He them.” 1:27
-11. **Tzaddi** (צ, Aquarius ♒︎),  – “blessed them \[male and female].” 1:28
+11. **Tzaddi** (צ, Aquarius ♒︎), – “blessed them \[male and female].” 1:28
 12. **Qooph** (ק, Pisces ♓︎) – “said: I have given you all . . .” 1:29\*
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>

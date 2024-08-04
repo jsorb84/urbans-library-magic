@@ -6,8 +6,6 @@ description: Random Alphabet Tables
 
 ## Dictionary of Occult Sigils & Symbols
 
-{% file src="../.gitbook/assets/Dictionary_of_Occult_Hermetic_Alchemical_Sigils_and_Symbols (1).pdf" %}
-
 ## Celestial, Agrippa 1531
 
 <figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>

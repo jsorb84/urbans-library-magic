@@ -20,7 +20,7 @@ coverY: 0
 
 ## Zodiac
 
-### Zodiac Names (English / Greek / Hebrew)&#x20;
+### Zodiac Names (English / Greek / Hebrew)
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,4 +73,3 @@ coverY: 0
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
-

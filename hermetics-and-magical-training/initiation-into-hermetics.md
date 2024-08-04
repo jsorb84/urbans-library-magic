@@ -16,7 +16,7 @@ Franz Bardon's Initiation Into Hermetics
 
 ## The Elements
 
-* **✨🌌 Akasa** \~ principle of the ether 🜀&#x20;
+* **✨🌌 Akasa** \~ principle of the ether 🜀
 * **🔥Tejas** \~ principle of the fire 🜂
 * **💨Waju** \~ Principle of the air 🜁
 * **💦Apas** \~ principle of the water 🜄
@@ -151,4 +151,3 @@ Likewise as the astral plane is inhabited, so too is the mental plane. Besides t
 Besides the mental sphere is the sphere of the so-called elementals, beings created consciously or unconsciously by man as a result of repeated and intense thinking. An elemental being is not yet so condensed to form or to assume any astral shape for itself. Its influence is therefore limited to the mental sphere. The difference between an ideal form and an elemental lies in the fact that the ideal form is based on one or several ideas. On the other hand, the elemental is equipped with a certain quantity of consciousness and therefore with the instinct of preservation, but otherwise it does not much distinguish from other mental living beings, and it can even take the same shape as the ideal form. The adept often resorts to these elemental beings. The problem of how to create such an elemental, how to preserve it and how to utilize it for certain purposes, will be approached in the practical section of this book.
 
 There would still be quite a lot to be said about the particular, specific properties of some beings. But all that we have pointed out previously should be sufficient to stimulate the work and contribute to a succinct enlightenment about the mental plane.
-

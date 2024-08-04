@@ -63,8 +63,6 @@ The 5th arcanum is the he of yod, but that is not enough, so I look at the secon
 
 The fifth card of the Tarot is—_<mark style="color:blue;">The He of Yod considered negatively</mark>_
 
-
-
 ## First Septenary Key
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
@@ -76,4 +74,3 @@ The fifth card of the Tarot is—_<mark style="color:blue;">The He of Yod consid
 ## Third Septenary Key
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
-

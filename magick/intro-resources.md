@@ -21,8 +21,6 @@ This is a newer reference work with a complete set of reference tables for every
 
 <figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/The Complete Magician's Tables -- Stephen Skinner -- 2nd, 2007.pdf" %}
-
 ## Liber 777
 
 <figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>

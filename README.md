@@ -1,47 +1,39 @@
----
-cover: .gitbook/assets/1500x500.jpeg
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
+# 🧠 The Great Manifestation
 
-# 👋 Welcome Page
+## Introduction
 
-## Urban's Research Database
+The <mark style="color:blue;">Conscious (M, +) Mind</mark> United /w The <mark style="color:red;">Sub-Conscious Mind (F, -)</mark> Manifests the <mark style="color:yellow;">PHYSICAL BODY</mark>
 
-Welcome to Urban's Research Database, this site is where I'll be uploading and keeping all of my public facing notes and information.
+### Hermetic Law of Gender
 
-### _Subscribe to Urban Odyssey_
+> Gender is in everything; everything has its Masculine and Feminine Principles; Gender manifests on all planes.\
+> \
+> \- The Kybalion
 
-{% embed url="https://theofficialurban.substack.com/embed" %}
-Subscribe to Urban Odyssey, tons of articles on occult, esoterica, metaphysics, mind control, and tons more. Urban Odyssey has a mix of content on tons of important topics.
+The Hermetic Law of Gender affirms this.
+
+The unification of the male (+) and female (-) manifests all things, even the physical body.
+
+The Sub-Conscious Mind is our LINK to the collective unconscious, what some have called GOD
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+### VI - The Lovers
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+We clearly see this dynamic illustrated in the Sixth card of the Major Arcana (VI - The Lovers)
+
+### Bob Proctor Explains Paradigms
+
+{% embed url="https://youtu.be/Urun_rE79_Q?si=V-XOtRWuehxpsy_k" %}
+Bob Proctor Explains Paradigms
 {% endembed %}
 
-### _Urban Odyssey Podcast_
+### The Subconscious Mind - [Mind & Magick](https://www.youtube.com/@mindandmagick)
 
-{% embed url="https://open.spotify.com/embed/show/4IJx2Q8TUn013NAt6sk0hp?t=0&utm_source=generator" %}
-Tons of AudioBooks, lectures, and classic interviews
-{% endembed %}
+#### Check out his full playlist [The Mystery School](https://youtube.com/playlist?list=PLWL-f1YBw48NKF1PasvuAM5oyiT73A12i\&si=0PuZbJDGZLPMuUzB)
 
-{% embed url="https://embed.podcasts.apple.com/us/podcast/urban-odyssey/id1743846524?itscg=30200&itsct=podcast_box_player&ls=1&theme=dark" %}
+{% embed url="https://youtu.be/F6U8A_mrrbY?si=e-qUFG6aF3qzGIgY" %}
 
-## Get in Touch
-
-I am eager to collaborate and talk to anyone who is interested, the best way to reach me is through [X (Twitter)](https://x.com/officialurbanus) or by [E-Mail](mailto:theofficialurban@protonmail.com).
-
-## Business Consulting
-
-I offer technology based business consulting services: web development, internal tooling setup, general counsel and consultation, amongst many other things.
-
+{% embed url="https://youtu.be/uR81Y6LP80o?si=j_29SmBj9n3YIwDz" %}

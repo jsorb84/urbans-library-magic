@@ -1,15 +1,10 @@
 # Table of contents
 
-* [👋 Welcome Page](README.md)
-* [👌 Mike Rawson's Information](mike-rawsons-information.md)
+## ⚡ Metaphysics
 
-## 🗒️ Urban's Notes
-
-* [🧠 The Great Manifestation](urbans-notes/the-great-manifestation.md)
-* [🌏 Astrology Reference](urbans-notes/astrology-reference.md)
-* [🔳 Geometrical Representations of Reality](urbans-notes/geometrical-representations-of-reality.md)
-* [✝️ Tetragrammaton](urbans-notes/tetragrammaton.md)
-* [📊 Conspiracy Charts](urbans-notes/conspiracy-charts.md)
+* [🧠 The Great Manifestation](README.md)
+* [🔳 Geometrical Representations of Reality](metaphysics/geometrical-representations-of-reality.md)
+* [✝️ Tetragrammaton](metaphysics/tetragrammaton.md)
 
 ## 🔺 Hermetics & Magical Training
 
@@ -37,41 +32,3 @@
 * [✨ Mike Rawson's Esoteric Tarot](tarot/mike-rawsons-esoteric-tarot.md)
 * [🎴 Tarot of the Bohemians](tarot/tarot-of-the-bohemians.md)
 * [🃏 Tarot Reference](tarot/tarot-reference.md)
-
-## 🔢 Numerology
-
-* [🔢 Pythagorean Number Symbolism](numerology/pythagorean-number-symbolism.md)
-* [🔢 Numerological Reference](numerology/numerological-reference.md)
-* [📑 Primary No. Reference](numerology/primary-no.-reference.md)
-* [📖 Pinnacle No. Reference](numerology/pinnacle-no.-reference.md)
-* [📖 Challenge No. Reference](numerology/challenge-no.-reference.md)
-* [📖 Life Path No. Reference](numerology/life-path-no.-reference.md)
-* [🎂 Birthday No. Reference](numerology/birthday-no.-reference.md)
-* [📖 Essence No. Reference](numerology/essence-no.-reference.md)
-* [🔤 Letter Progression Reference](numerology/letter-progression-reference.md)
-* [🔢 Inclusion Table Reference](numerology/inclusion-table-reference.md)
-* [🔢 Types & Traits Reference](numerology/types-and-traits-reference.md)
-* [🔤 First Vowel Reference](numerology/first-vowel-reference.md)
-
-## 📔 Ciphers
-
-* [📚 Masonic Ciphers](ciphers/masonic-ciphers.md)
-* [📚 Aiq-Beker Cipher](ciphers/aiq-beker-cipher.md)
-
-## 🤖 Artificial Intelligence
-
-* [🗒️ SocioSapien Saga](artificial-intelligence/sociosapien-saga.md)
-* [🤖 AI Manipulation Saga](artificial-intelligence/ai-manipulation-saga.md)
-* [🤖 Grok on Blackmail Operation](artificial-intelligence/grok-on-blackmail-operation.md)
-
-## 📚 Free Resources
-
-* [📖 The Ancient Book of Enoch](free-resources/the-ancient-book-of-enoch.md)
-* [☠️ Masters Mahan Podcast](free-resources/masters-mahan-podcast.md)
-* [🧑‍🤝‍🧑 Public Communities](free-resources/public-communities.md)
-* [📙 Urban's Bio.Link](https://bio.link/officialurban)
-
-## 💤 Gateway / Hemi-Sync
-
-* [📓 Gateway Content Catalog](gateway-hemi-sync/gateway-content-catalog.md)
-* [💾 Full Gateway Process Drive](https://drive.google.com/drive/folders/1\_3fqyxGRxMfhTqi2NayXGfllcPFBTJ2A?usp=drive\_link)
