@@ -1,0 +1,2 @@
+# 🔳 Geometrical Representations of Reality
+
