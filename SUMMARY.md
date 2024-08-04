@@ -3,8 +3,8 @@
 ## ⚡ Urban's Notes
 
 * [🧠 The Great Manifestation](README.md)
-* [🔳 Geometrical Representations of Reality](metaphysics/geometrical-representations-of-reality.md)
-* [✝️ Tetragrammaton](metaphysics/tetragrammaton.md)
+* [🔳 Geometrical Representations of Reality](urbans-notes/geometrical-representations-of-reality.md)
+* [✝️ Tetragrammaton](urbans-notes/tetragrammaton.md)
 
 ## 🔺 Hermetics & Magical Training
 
