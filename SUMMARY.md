@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🪄 Magic, Hermetics, and Metaphysics](README.md)
+* [👋 Welcome](README.md)
 
 ## ⚡ Metaphysics
 
